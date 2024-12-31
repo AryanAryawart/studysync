@@ -6,3 +6,5 @@ Aryan Shakya and Aakash Kumar collaborated on this project, completing it in und
 **Languages Used:** HTML, CSS  
 **Technologies Implemented:** FlexBox, Grid, CSS Positioning Properties, CSS Transitions, Figma (Web Design)  
 **Reference:** Code Help by Love Babbar (YouTube)
+---
+**Project Link:** https://aryanaryawart.github.io/studysync/
